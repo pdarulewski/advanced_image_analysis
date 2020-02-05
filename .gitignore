@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+1_week/week_1_data
+
+# MacOS
+.DS_Store
