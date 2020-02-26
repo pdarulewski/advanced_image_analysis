@@ -129,7 +129,14 @@ dmypy.json
 .pyre/
 
 # Data
-# 1_week/week_1_data
+*.png
+*.pdf
+*.txt
+*.tif
+*.mp4
+
 
 # MacOS
 .DS_Store
+.idea/
+
